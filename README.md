@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @struggler-guts
+- 👋 Hi, I’m @yaxhcodes
 - 👀 I’m interested in making intuitive websites and web-apps
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me out here https://x.com/orewayash
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love wildlife photography
