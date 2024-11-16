@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaxhcodes
 - 👀 I’m interested in making intuitive websites and web-apps
 - 🌱 I’m currently learning Full Stack Development
-- 📫 Reach me out here https://x.com/orewayash
+- 📫 Reach me out here https://x.com/xyaxhj
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love wildlife photography
 
